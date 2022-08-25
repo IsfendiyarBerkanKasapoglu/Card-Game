@@ -1,0 +1,6 @@
+.cache/
+.config/
+.replit
+.upm/
+__pycache__/
+env/
